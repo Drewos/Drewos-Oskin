@@ -1,4 +1,4 @@
-<?php
+	<?php
 $userName = 'Андрей Оськин';
 $userAge = '20';
 $city = 'Москва';
